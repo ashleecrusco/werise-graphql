@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "graphql-yoga": "^1.14.10",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.17.5",
+    "npm": "^6.1.0"
   }
 }
